@@ -27,7 +27,7 @@ Unifatecie – Conclusão prevista: Dezembro/2026
 
 ### Sophia Photography (HTML, CSS, JavaScript)  
 Projeto autoral criado em 2024, utilizando HTML, CSS, JavaScript básico, jQuery para manipulação DOM e eventos, Bootstrap e Flexbox.  
-🔗 https://danielafoggiatto.github.io/Sophia-Photography/#
+🔗 https://danielafoggiatto.github.io/Sophia-Photography--Projeto-Autoral/
 
 ### Sistema de Agenda (C#)  
 Gerencia compromissos com serialização JSON, orientação a objetos e tratamento de exceções.  
