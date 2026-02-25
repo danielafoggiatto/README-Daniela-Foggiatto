@@ -44,3 +44,7 @@ Tenho base sólida em **QA Automation**, o que contribui para escrita de código
 ---
 
 📫 Aberta a conexões e oportunidades na área de desenvolvimento backend.
+---
+
+📲 (48) 99907-6322
+---
